@@ -17,10 +17,10 @@ Greetings! My name is Angga, and I'm excited to share my still developing data a
    - **Overview:** This project focuses on predicting the likelihood of winning in a ranked League of Legends match. Using player performance statistics and match data, a machine learning model is built to classify match outcomes. The analysis and model leverage a dataset of over 180,000 ranked games, making it a rich resource for exploration and prediction. 
    - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, SHAP, XGBoost
    - **Dataset:** [League of Legends Ranked Matches Dataset](https://www.kaggle.com/paololol/league-of-legends-ranked-matches)
-   - **Output:** [League of Legends Win Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
+   - **Output:** [League of Legends Win Prediction]()
 
 ## **CO2 Dashboard**  
    - **Overview:** This project involves creating an interactive dashboard to analyze CO2 emissions data globally and regionally. Using visualization tools, the dashboard provides insights into CO2 emissions trends, GDP per capita, and other related metrics for various countries. 
    - **Technology Stack:** Python, pandas, Numpy, Panel, Bokeh, HvPlot
    - **Dataset:** [Our World in Data CO2 Emissions Dataset](https://github.com/owid/co2-data)
-   - **Output:** [CO2 Dashboard](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
+   - **Output:** [CO2 Dashboard]()
