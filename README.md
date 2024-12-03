@@ -26,4 +26,6 @@ Greetings! My name is Angga, and I'm excited to share my still developing data a
    - **Output:** [CO2 Dashboard](https://github.com/Fuady/PortfolioProjects/blob/main/co2_dashboard.ipynb)
 
 ## **Tableau Visualization**
-- **[Super Store Sales Dashboard](https://github.com/Fuady/Tableau-Results/blob/main/Dashboard%20Super%20Sales.png)**
+- **[Super Store Sales Dashboard](https://github.com/Fuady/Tableau-Results/blob/main/Dashboard%20Super%20Sales.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/SuperStoreOverview_16922041483160/Dashboard1)
+- **[Churn Customer Overview](https://github.com/Fuady/Tableau-Results/blob/main/Customer_churn_overview.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/CustomerChurnOverview_16923700539950/Dashboard1)
+- **[World Life Expectancy](https://github.com/Fuady/Tableau-Results/blob/main/World_life_expectancy.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/WorldLifeExpectancy_16622213083270/Dashboard1)
