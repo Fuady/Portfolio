@@ -24,3 +24,5 @@ Greetings! My name is Angga, and I'm excited to share my still developing data a
    - **Technology Stack:** Python, pandas, Numpy, Panel, Bokeh, HvPlot
    - **Dataset:** [Our World in Data CO2 Emissions Dataset](https://github.com/owid/co2-data)
    - **Output:** [CO2 Dashboard]()
+
+## **Tableau Visualization**
