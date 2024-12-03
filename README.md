@@ -23,6 +23,6 @@ Greetings! My name is Angga, and I'm excited to share my still developing data a
    - **Overview:** This project involves creating an interactive dashboard to analyze CO2 emissions data globally and regionally. Using visualization tools, the dashboard provides insights into CO2 emissions trends, GDP per capita, and other related metrics for various countries. 
    - **Technology Stack:** Python, pandas, Numpy, Panel, Bokeh, HvPlot
    - **Dataset:** [Our World in Data CO2 Emissions Dataset](https://github.com/owid/co2-data)
-   - **Output:** [CO2 Dashboard]()
+   - **Output:** [CO2 Dashboard](https://github.com/Fuady/PortfolioProjects/blob/main/co2_dashboard.ipynb)
 
 ## **Tableau Visualization**
