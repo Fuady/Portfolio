@@ -1,5 +1,5 @@
 # Portfolio
-Greetings! My name is Angga, and I'm excited to share my still developing data analytics and engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
+Greetings! My name is Angga, and I'm excited to share my still-developing data analytics and engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self-development exercises, each of which covers essential skills and techniques.
 
 ## **Movie Recommendation System**  
    - **Overview:** This project involves building a content-based recommendation system for movies. It utilizes TensorFlow to model user preferences and suggest relevant movies.
@@ -24,6 +24,12 @@ Greetings! My name is Angga, and I'm excited to share my still developing data a
    - **Technology Stack:** Python, pandas, Numpy, Panel, Bokeh, HvPlot
    - **Dataset:** [Our World in Data CO2 Emissions Dataset](https://github.com/owid/co2-data)
    - **Output:** [CO2 Dashboard](https://github.com/Fuady/PortfolioProjects/blob/main/co2_dashboard.ipynb)
+
+## **Travel Insurance Prediction**
+   - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
+   - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
+   - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
+   - **Output:** [Travel Insurance Prediction]()
 
 ## **Tableau Visualization**
 - **[Super Store Sales Dashboard](https://github.com/Fuady/Tableau-Results/blob/main/Dashboard%20Super%20Sales.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/SuperStoreOverview_16922041483160/Dashboard1)
