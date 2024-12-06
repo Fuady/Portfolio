@@ -27,6 +27,11 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
    - **Output:** [Fetal Health Classification]()
 
+## **NLP Sentiment Analysis of EasyJet Reviews**
+   - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
+   - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
+   - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
+   - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
 
 # Deep Learning
 
