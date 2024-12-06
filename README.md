@@ -1,7 +1,7 @@
 # Portfolio
 Greetings! My name is Angga, and I'm excited to share my still-developing data analytics and engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self-development exercises, each of which covers essential skills and techniques.
 
-# Predictive Modeling
+# Data Science Projects
 
 ## **Travel Insurance Prediction**
    - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
