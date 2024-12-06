@@ -28,8 +28,8 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Output:** [Fetal Health Classification]()
 
 ## **NLP Sentiment Analysis of EasyJet Reviews**
-   - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
-   - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
+   - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
+   - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
    - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
 
