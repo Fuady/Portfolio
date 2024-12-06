@@ -31,7 +31,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
    - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [EasyJet reviews on Trustpilot](https://www.trustpilot.com/review/www.easyjet.com)
-   - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
+   - **Output:** [Sentiment Analysis of EasyJet Reviews]()
 
 # Deep Learning
 
