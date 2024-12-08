@@ -13,7 +13,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Overview:** Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn can help businesses proactively address customer concerns and retain clients, which is more cost-effective than acquiring new ones. The goal of this project is to predict whether a customer will churn based on their demographics and usage patterns using machine learning techniques. Additionally, we'll identify key factors that influence churn. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Customer Churn Prediction Dataset](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction)
-   - **Output:** [Customer Churn Prediction]()
+   - **Output:** [Customer Churn Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Customer_Telco_Churn_Prediction.ipynb)
 
 ## **League of Legends Win Prediction**  
    - **Overview:** This project focuses on predicting the likelihood of winning in a ranked League of Legends match. Using player performance statistics and match data, a machine learning model is built to classify match outcomes. The analysis and model leverage a dataset of over 180,000 ranked games, making it a rich resource for exploration and prediction. 
