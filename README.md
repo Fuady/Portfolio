@@ -25,7 +25,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Overview:** Fetal health classification is critical in obstetrics to ensure proper care and intervention during pregnancy. The goal of this analysis is to classify the health status of a fetus into one of three categories, i.e. Normal, Suspect, Pathological. Using clinical features such as fetal heart rate patterns and other indicators, we aim to build a machine learning model that accurately predicts these categories. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
-   - **Output:** [Fetal Health Classification]()
+   - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
 
 ## **NLP Sentiment Analysis of EasyJet Reviews**
    - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
