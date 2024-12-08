@@ -35,7 +35,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 ## **TSLA Stock Analysis**
    - **Overview:** This project provides a comprehensive analysis of Tesla (TSLA) stock using various data science techniques, including data scraping, visualization, stock prediction using neural networks and creating a signal for buy/sell stock based on MACD.
-   - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
+   - **Technology Stack:** Python, yfinance, matplotlib, seaborn, statsmodels, scikit-learn, tensorflow, pandas, Numpy
    - **Dataset:** [EasyJet reviews on Trustpilot](https://www.trustpilot.com/review/www.easyjet.com)
    - **Output:** [Sentiment Analysis of EasyJet Reviews]()
 
