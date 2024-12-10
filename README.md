@@ -7,6 +7,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Financial Data Science
 
+# Geospatial Data Science
 
 ## **Travel Insurance Prediction**
    - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
