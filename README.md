@@ -25,6 +25,13 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Financial Data Science
 
+## **TSLA Stock Analysis**
+   - **Overview:** This project provides a comprehensive analysis of Tesla (TSLA) stock using various data science techniques, including data scraping, visualization, stock prediction using neural networks and creating a signal for buy/sell stock based on MACD.
+   - **Technology Stack:** Python, yfinance, matplotlib, seaborn, statsmodels, scikit-learn, tensorflow, pandas, Numpy
+   - **Dataset:** [TSLA](https://finance.yahoo.com/quote/TSLA/)
+   - **Output:** [TSLA Stock Analysis Project](https://github.com/Fuady/PortfolioProjects/blob/main/Stock_analysis.ipynb)
+
+
 # Geospatial Data Science
 
 # Sport Data Science
@@ -50,11 +57,6 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
 
 
-## **TSLA Stock Analysis**
-   - **Overview:** This project provides a comprehensive analysis of Tesla (TSLA) stock using various data science techniques, including data scraping, visualization, stock prediction using neural networks and creating a signal for buy/sell stock based on MACD.
-   - **Technology Stack:** Python, yfinance, matplotlib, seaborn, statsmodels, scikit-learn, tensorflow, pandas, Numpy
-   - **Dataset:** [TSLA](https://finance.yahoo.com/quote/TSLA/)
-   - **Output:** [TSLA Stock Analysis Project](https://github.com/Fuady/PortfolioProjects/blob/main/Stock_analysis.ipynb)
 
 # Deep Learning
 
