@@ -5,6 +5,13 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Sales and Marketing Data Science
 
+## **Movie Recommendation System**  
+   - **Overview:** This project involves building a content-based recommendation system for movies. It utilizes TensorFlow to model user preferences and suggest relevant movies.
+   - **Technology Stack:** Python, TensorFlow, Pandas, NumPy, Matplotlib
+   - **Dataset:** [Movies Dataset from Kaggle](https://www.kaggle.com/code/faiqueali/tensorflow-movie-recommender-system)
+   - **Output:** [Movie Recommendation System](https://github.com/Fuady/PortfolioProjects/blob/main/Movie_Recommendation_System_TensorFlow.ipynb)
+
+
 # Financial Data Science
 
 # Geospatial Data Science
@@ -49,11 +56,6 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Deep Learning
 
-## **Movie Recommendation System**  
-   - **Overview:** This project involves building a content-based recommendation system for movies. It utilizes TensorFlow to model user preferences and suggest relevant movies.
-   - **Technology Stack:** Python, TensorFlow, Pandas, NumPy, Matplotlib
-   - **Dataset:** [Movies Dataset from Kaggle](https://www.kaggle.com/code/faiqueali/tensorflow-movie-recommender-system)
-   - **Output:** [Movie Recommendation System](https://github.com/Fuady/PortfolioProjects/blob/main/Movie_Recommendation_System_TensorFlow.ipynb)
 
 
 # EDA - Data Analytics
