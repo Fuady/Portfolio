@@ -31,7 +31,12 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [TSLA](https://finance.yahoo.com/quote/TSLA/)
    - **Output:** [TSLA Stock Analysis Project](https://github.com/Fuady/PortfolioProjects/blob/main/Stock_analysis.ipynb)
 
-
+## **Car Insurance Fraud Detection ()**  
+   - **Overview:** This project involves analyzing insurance claims data to detect fraudulent activities. By leveraging machine learning models and exploratory data analysis, the goal is to identify key patterns and characteristics of fraudulent claims.
+   - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+   - **Dataset:** [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data)
+   - **Output:** [Car Insurance Fraud Detection](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
+     
 # Geospatial Data Science
 
 # Sport Data Science
@@ -64,11 +69,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # EDA - Data Analytics
 
-## **Car Insurance Fraud Detection**  
-   - **Overview:** This project involves analyzing insurance claims data to detect fraudulent activities. By leveraging machine learning models and exploratory data analysis, the goal is to identify key patterns and characteristics of fraudulent claims.
-   - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
-   - **Dataset:** [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data)
-   - **Output:** [Car Insurance Fraud Detection](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
+
 
 
 # Dashboarding & Visualization
