@@ -16,7 +16,13 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Customer Churn Prediction Dataset](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction)
    - **Output:** [Customer Churn Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Customer_Telco_Churn_Prediction.ipynb)
-     
+
+## **NLP Sentiment Analysis of EasyJet Reviews ()**
+   - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
+   - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
+   - **Dataset:** [EasyJet reviews on Trustpilot](https://www.trustpilot.com/review/www.easyjet.com)
+   - **Output:** [Sentiment Analysis of EasyJet Reviews](https://github.com/Fuady/PortfolioProjects/blob/main/Sentiment_analysis_easyjet.ipynb)
+
 # Financial Data Science
 
 # Geospatial Data Science
@@ -43,11 +49,6 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
    - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
 
-## **NLP Sentiment Analysis of EasyJet Reviews**
-   - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
-   - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
-   - **Dataset:** [EasyJet reviews on Trustpilot](https://www.trustpilot.com/review/www.easyjet.com)
-   - **Output:** [Sentiment Analysis of EasyJet Reviews](https://github.com/Fuady/PortfolioProjects/blob/main/Sentiment_analysis_easyjet.ipynb)
 
 ## **TSLA Stock Analysis**
    - **Overview:** This project provides a comprehensive analysis of Tesla (TSLA) stock using various data science techniques, including data scraping, visualization, stock prediction using neural networks and creating a signal for buy/sell stock based on MACD.
