@@ -5,6 +5,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Sales and Marketing Data Science
 
+# Financial Data Science
 
 
 ## **Travel Insurance Prediction**
