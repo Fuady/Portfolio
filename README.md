@@ -34,18 +34,19 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
    - **Dataset:** [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data)
    - **Output:** [Car Insurance Fraud Detection](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
-     
+
+## **Travel Insurance Prediction(Machine Learning/Predictive Modeling)**
+   - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
+   - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
+   - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
+   - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
+
 # Geospatial Data Science
 
 # Sport Data Science
 
 # Others
 
-## **Travel Insurance Prediction**
-   - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
-   - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
-   - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
-   - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
 
 
 
