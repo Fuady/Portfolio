@@ -9,7 +9,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Movies Dataset from Kaggle](https://www.kaggle.com/code/faiqueali/tensorflow-movie-recommender-system)
    - **Output:** [Movie Recommendation System](https://github.com/Fuady/PortfolioProjects/blob/main/Movie_Recommendation_System_TensorFlow.ipynb)
 
-## **Telco Customer Churn Prediction (Predictive Modeling)**
+## **Telco Customer Churn Prediction (Machine Learning / Predictive Modeling)**
    - **Overview:** Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn can help businesses proactively address customer concerns and retain clients, which is more cost-effective than acquiring new ones. The goal of this project is to predict whether a customer will churn based on their demographics and usage patterns using machine learning techniques. Additionally, we'll identify key factors that influence churn. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Customer Churn Prediction Dataset](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction)
