@@ -1,7 +1,5 @@
-# Portfolio
+# Data Science Portfolio Projects
 Greetings! My name is Angga, and I'm excited to share my still-developing data analytics and engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self-development exercises, each of which covers essential skills and techniques.
-
-# Data Science Projects
 
 # Sales and Marketing Data Science
 
