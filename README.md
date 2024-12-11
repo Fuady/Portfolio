@@ -23,7 +23,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 # Financial Data Science
 
-## **TSLA Stock Analysis (Web-scraping, Deep Learning, Predictive Modeling)**
+## **TSLA Stock Analysis (Web-scraping, Deep Learning, Machine Learning/Predictive Modeling)**
    - **Overview:** This project provides a comprehensive analysis of Tesla (TSLA) stock using various data science techniques, including data scraping, visualization, stock prediction using neural networks and creating a signal for buy/sell stock based on MACD.
    - **Technology Stack:** Python, yfinance, matplotlib, seaborn, statsmodels, scikit-learn, tensorflow, pandas, Numpy
    - **Dataset:** [TSLA](https://finance.yahoo.com/quote/TSLA/)
