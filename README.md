@@ -29,7 +29,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [TSLA](https://finance.yahoo.com/quote/TSLA/)
    - **Output:** [TSLA Stock Analysis Project](https://github.com/Fuady/PortfolioProjects/blob/main/Stock_analysis.ipynb)
 
-## **Car Insurance Fraud Detection ()**  
+## **Car Insurance Fraud Detection (Machine Learning/Predictive Modeling)**  
    - **Overview:** This project involves analyzing insurance claims data to detect fraudulent activities. By leveraging machine learning models and exploratory data analysis, the goal is to identify key patterns and characteristics of fraudulent claims.
    - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
    - **Dataset:** [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data)
@@ -38,6 +38,8 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 # Geospatial Data Science
 
 # Sport Data Science
+
+# Others
 
 ## **Travel Insurance Prediction**
    - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
