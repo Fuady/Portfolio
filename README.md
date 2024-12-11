@@ -9,13 +9,13 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Movies Dataset from Kaggle](https://www.kaggle.com/code/faiqueali/tensorflow-movie-recommender-system)
    - **Output:** [Movie Recommendation System](https://github.com/Fuady/PortfolioProjects/blob/main/Movie_Recommendation_System_TensorFlow.ipynb)
 
-## **Telco Customer Churn Prediction (Machine Learning / Predictive Modeling)**
+## **Telco Customer Churn Prediction (Machine Learning/Predictive Modeling)**
    - **Overview:** Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn can help businesses proactively address customer concerns and retain clients, which is more cost-effective than acquiring new ones. The goal of this project is to predict whether a customer will churn based on their demographics and usage patterns using machine learning techniques. Additionally, we'll identify key factors that influence churn. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Customer Churn Prediction Dataset](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction)
    - **Output:** [Customer Churn Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Customer_Telco_Churn_Prediction.ipynb)
 
-## **NLP Sentiment Analysis of EasyJet Reviews (Web-scraping, Deep Learning, Predictive Modeling)**
+## **NLP Sentiment Analysis of EasyJet Reviews (Web-scraping, Deep Learning, Machine Learning/Predictive Modeling)**
    - **Overview:** This project analyzes customer sentiment toward EasyJet based on reviews collected from Trustpilot. Using advanced natural language processing (NLP) techniques, the sentiment of the reviews is classified into positive and negative categories. The project also compares three machine learning and deep learning models—Support Vector Machine (SVM), Logistic Regression, and Long Short-Term Memory (LSTM)—to identify the most effective approach for sentiment classification.
    - **Technology Stack:** Python, BeautifulSoup, NLTK, TensorFlow/Keras, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [EasyJet reviews on Trustpilot](https://www.trustpilot.com/review/www.easyjet.com)
