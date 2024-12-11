@@ -35,43 +35,25 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data)
    - **Output:** [Car Insurance Fraud Detection](https://github.com/Fuady/PortfolioProjects/blob/main/Car%20Insurance%20Fraud%20Detection.ipynb)
 
-## **Travel Insurance Prediction(Machine Learning/Predictive Modeling)**
+## **Travel Insurance Prediction (Machine Learning/Predictive Modeling)**
    - **Overview:** This project focuses on predicting whether a customer will purchase travel insurance based on their demographic and travel-related information. The objective is to build a predictive model and analyze key factors influencing the purchase decision. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, SHAP, scikit-learn
    - **Dataset:** [Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data)
    - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
 
-# Geospatial Data Science
-
-# Sport Data Science
-
 # Others
 
-
-
-
-## **League of Legends Win Prediction**  
+## **League of Legends Win Prediction((Machine Learning/Predictive Modeling))**  
    - **Overview:** This project focuses on predicting the likelihood of winning in a ranked League of Legends match. Using player performance statistics and match data, a machine learning model is built to classify match outcomes. The analysis and model leverage a dataset of over 180,000 ranked games, making it a rich resource for exploration and prediction. 
    - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBoost
    - **Dataset:** [League of Legends Ranked Matches Dataset](https://www.kaggle.com/paololol/league-of-legends-ranked-matches)
    - **Output:** [League of Legends Win Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/LoL_prediction.ipynb)
 
-## **Fetal Health Classification**
+## **Fetal Health Classification ((Machine Learning/Classification))**
    - **Overview:** Fetal health classification is critical in obstetrics to ensure proper care and intervention during pregnancy. The goal of this analysis is to classify the health status of a fetus into one of three categories, i.e. Normal, Suspect, Pathological. Using clinical features such as fetal heart rate patterns and other indicators, we aim to build a machine learning model that accurately predicts these categories. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
    - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
-
-
-
-# Deep Learning
-
-
-
-# EDA - Data Analytics
-
-
-
 
 # Dashboarding & Visualization
 
