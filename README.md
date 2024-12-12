@@ -68,3 +68,6 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 - **[Churn Customer Overview](https://github.com/Fuady/Tableau-Results/blob/main/Customer_churn_overview.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/CustomerChurnOverview_16923700539950/Dashboard1)
 - **[World Life Expectancy](https://github.com/Fuady/Tableau-Results/blob/main/World_life_expectancy.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/WorldLifeExpectancy_16622213083270/Dashboard1)
 - **[Table Tennis Blade Selection](https://github.com/Fuady/Tableau-Results/blob/main/Table_tennis_blade_selection.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/ButterflyRubberandBladeSelection/Dashboard1)
+
+
+[My Linkedin profile]()
