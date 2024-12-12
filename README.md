@@ -70,5 +70,5 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 - **[Table Tennis Blade Selection](https://github.com/Fuady/Tableau-Results/blob/main/Table_tennis_blade_selection.png):** [Link to Tableau Public](https://public.tableau.com/app/profile/angga.fuady/viz/ButterflyRubberandBladeSelection/Dashboard1)
 
 
-[My Linkedin profile](https://linkedin.com/in/amfuady)
-[My Tableau profile]()
+[My LinkedIn Profile](https://linkedin.com/in/amfuady)
+[My Tableau Profile]()
