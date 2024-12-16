@@ -55,7 +55,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
    - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
 
-# Dashboarding & Visualization
+# Dashboards & Visualizations
 
 ## **CO2 Dashboard**
    - **Overview:** This project involves creating an interactive dashboard to analyze CO2 emissions data globally and regionally. Using visualization tools, the dashboard provides insights into CO2 emissions trends, GDP per capita, and other related metrics for various countries. 
