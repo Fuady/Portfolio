@@ -76,7 +76,11 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 ## Mini Games
 
+### Snake Game
 
+### 2048 Game
+
+### Rock, Paper, Scissors Game
 
 ## 
 [My LinkedIn Profile](https://linkedin.com/in/amfuady)
