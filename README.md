@@ -77,7 +77,9 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 ## Mini Games
 
 ### Snake Game
-
+- **Overview:**
+- **[Snake Game Python File]()**
+  
 ### 2048 Game
 
 ### Rock, Paper, Scissors Game
