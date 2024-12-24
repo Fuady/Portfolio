@@ -78,7 +78,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 ### Snake Game
 - **Overview:** The Snake Game is a classic arcade-style game where you control a green snake navigating a rectangular playing field. The goal is to eat as much food as possible to increase your score and grow the snake's length. As the snake grows, the game becomes more challenging as you must avoid colliding with your own body.
-- **[Snake Game Python File]()**
+- **[Snake Game Python File](https://github.com/Fuady/Mini_Games/blob/main/snake_game.py)**
   
 ### 2048 Game
 - **Overview:**
