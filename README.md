@@ -82,7 +82,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
   
 ### 2048 Game
 - **Overview:** 2048 game is a classic sliding tile puzzle game where the player combines tiles with the same value to reach the tile with the number 2048.
-- **[2048 Game Python File]()**
+- **[2048 Game Python File](https://github.com/Fuady/Mini_Games/blob/main/2048_game_colors.py)**
 
 ### Rock, Paper, Scissors Game
 - **Overview:**
