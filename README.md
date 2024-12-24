@@ -86,7 +86,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 
 ### Rock, Paper, Scissors Game
 - **Overview:** Rock Paper Scissors is a simple but engaging game where two players simultaneously choose one of three options: Rock, Paper, or Scissors. In this digital version, you play against a computer opponent that randomly selects its moves, while keeping track of your score and match history.
-- **[Rock, Paper, Scissors Game Python File]()**
+- **[Rock, Paper, Scissors Game Python File](https://github.com/Fuady/Mini_Games/blob/main/rock-paper-scissors.py)**
 
 ## 
 [My LinkedIn Profile](https://linkedin.com/in/amfuady)
