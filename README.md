@@ -44,7 +44,9 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 # Geospatial Data Science
 ## Title 1   
    - **Overview:**
+   - **Technology Stack:**
 
+     
 # Others
 
 ## **League of Legends Win Prediction(Machine Learning/Predictive Modeling)**
