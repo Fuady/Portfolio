@@ -55,7 +55,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Output:** [League of Legends Win Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/LoL_prediction.ipynb)
 
 ## **Fetal Health Classification (Machine Learning/Classification)**
-   - **Overview:** Fetal health classification is critical in obstetrics to ensure proper care and intervention during pregnancy. The goal of this analysis is to classify the health status of a fetus into one of three categories, i.e. Normal, Suspect, Pathological. Using clinical features such as fetal heart rate patterns and other indicators, we aim to build a machine learning model that accurately predicts these categories. 
+   - **Overview:** Fetal health classification is critical in obstetrics to ensure proper care and intervention during pregnancy. The goal of this analysis is to classify the health status of a fetus into one of three categories, i.e. Normal, Suspect, and Pathological. Using clinical features such as fetal heart rate patterns and other indicators, we aim to build a machine-learning model that accurately predicts these categories. 
    - **Technology Stack:** Python, pandas, Numpy, seaborn, matplotlib, scikit-learn
    - **Dataset:** [Fetal Health Classification Dataset](https://www.kaggle.com/code/karnikakapoor/fetal-health-classification)
    - **Output:** [Fetal Health Classification](https://github.com/Fuady/PortfolioProjects/blob/main/Fetal%20Health%20Classification.ipynb)
