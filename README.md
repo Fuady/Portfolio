@@ -46,6 +46,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - 
 # Others
 
+
 ## **League of Legends Win Prediction(Machine Learning/Predictive Modeling)**
    - **Overview:** This project focuses on predicting the likelihood of winning in a ranked League of Legends match. Using player performance statistics and match data, a machine learning model is built to classify match outcomes. The analysis and model leverage a dataset of over 180,000 ranked games, making it a rich resource for exploration and prediction. 
    - **Technology Stack:** Python, pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBoost
