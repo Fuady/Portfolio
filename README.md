@@ -44,7 +44,7 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
 # Geospatial Data Science
 ## Amsterdam   
    - 
-# Others
+# Other
 
 
 ## **League of Legends Win Prediction(Machine Learning/Predictive Modeling)**
