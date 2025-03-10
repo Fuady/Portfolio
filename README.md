@@ -42,7 +42,9 @@ Greetings! My name is Angga, and I'm excited to share my still-developing data a
    - **Output:** [Travel Insurance Prediction](https://github.com/Fuady/PortfolioProjects/blob/main/Travel_insurance_prediction.ipynb)
 
 # Geospatial Data Science
-## Amsterdam   
+##
+
+
 
 
 
